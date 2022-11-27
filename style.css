@@ -49,7 +49,7 @@ h1{
 
 p{
     color: black;
-    font-size: 20px;
+    font-size: 30px;
     font-family: "Sofia", sans-serif;
     text-align: center;
     margin-top: -3%;
@@ -61,7 +61,7 @@ p{
     display: inline-block;
     font-size: 1em;
     padding: 1em 2em;
-    margin-top: 3%;
+    margin-top: 5%;
     margin-bottom: 5%;
     -webkit-appearance: none;
     appearance: none;
