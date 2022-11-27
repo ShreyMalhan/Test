@@ -49,11 +49,11 @@ h1{
 
 p{
     color: black;
-    font-size: 40px;
+    font-size: 35px;
     font-family: "Sofia", sans-serif;
     text-align: center;
     margin-top: -3%;
-    /* padding: 0 200px; */
+    padding: 0 50px;
 }
 
 .bubbly-button {
@@ -61,7 +61,8 @@ p{
     display: inline-block;
     font-size: 1em;
     padding: 1em 2em;
-    margin-top: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     -webkit-appearance: none;
     appearance: none;
     background-color: #ff0081;
